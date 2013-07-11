@@ -1,0 +1,1574 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dthe",
+				"dtheLLama"
+			],
+			[
+				"sll",
+				"stheLLamaFlip"
+			],
+			[
+				"sitm",
+				"sitmAllD"
+			],
+			[
+				"tem",
+				"tempInt"
+			],
+			[
+				"SidAI",
+				"SidAI_OmmitMID"
+			],
+			[
+				"rnd",
+				"statF_smRND"
+			],
+			[
+				"func",
+				"func_tempflags"
+			],
+			[
+				"flag",
+				"func_tempflags"
+			],
+			[
+				"sR",
+				"sRunmode"
+			],
+			[
+				"statG",
+				"statG_height_half"
+			],
+			[
+				"statG_wi",
+				"statG_width_half"
+			],
+			[
+				"statg",
+				"statG_healthmax"
+			],
+			[
+				"dF",
+				"dfontBigger"
+			],
+			[
+				"Get",
+				"GetDefaultFont"
+			],
+			[
+				"df",
+				"dfontNormal"
+			],
+			[
+				"de",
+				"define"
+			],
+			[
+				"G",
+				"G_width"
+			],
+			[
+				"F_s",
+				"F_sMOAR"
+			],
+			[
+				"dtxt",
+				"dtxtLLama"
+			],
+			[
+				"dfon",
+				"dfontNormal"
+			],
+			[
+				"Set",
+				"SetScale"
+			],
+			[
+				"Dr",
+				"Draw"
+			],
+			[
+				"the",
+				"theLLamaImg"
+			],
+			[
+				"dfo",
+				"dfontMonospace"
+			],
+			[
+				"dr",
+				"dRunmode"
+			],
+			[
+				"sr",
+				"sRunmode"
+			],
+			[
+				"F_sm",
+				"F_smMID"
+			],
+			[
+				"fla",
+				"flagsSyncAll"
+			],
+			[
+				"Stat",
+				"dStats"
+			],
+			[
+				"stat",
+				"statsu"
+			],
+			[
+				"Ge",
+				"GetRandomPt"
+			],
+			[
+				"stats",
+				"statsu"
+			],
+			[
+				"sid",
+				"SidAI_EndRun"
+			],
+			[
+				"sit",
+				"sitmAllD"
+			],
+			[
+				"st",
+				"statsu"
+			],
+			[
+				"MS",
+				"F_MSsta"
+			],
+			[
+				"F_",
+				"F_sWHTV"
+			],
+			[
+				"Sr",
+				"sRunmodeD"
+			],
+			[
+				"sH",
+				"sHappiness"
+			],
+			[
+				"s",
+				"statsu"
+			],
+			[
+				"temp",
+				"func_tempint"
+			],
+			[
+				"rand",
+				"randGetNum"
+			],
+			[
+				"ra",
+				"randGenNext"
+			],
+			[
+				"Ve",
+				"Vector2D"
+			],
+			[
+				"t",
+				"theLLama"
+			],
+			[
+				"Mo",
+				"Mode"
+			],
+			[
+				"Se",
+				"SetBlendMode"
+			],
+			[
+				"dra",
+				"Draw"
+			],
+			[
+				"add",
+				"_additem"
+			],
+			[
+				"li",
+				"LifeCount"
+			],
+			[
+				"Coll",
+				"CollectCount"
+			],
+			[
+				"Li",
+				"LifeCount"
+			],
+			[
+				"Item",
+				"ItemDelNo"
+			],
+			[
+				"sh",
+				"sHappiness"
+			],
+			[
+				"F_it",
+				"F_itRMc"
+			],
+			[
+				"F_i",
+				"F_itRMl"
+			],
+			[
+				"G_",
+				"G_height"
+			],
+			[
+				"F_wm",
+				"F_wmWEW"
+			],
+			[
+				"a",
+				"AddTemp"
+			],
+			[
+				"vec",
+				"_vectorToInt"
+			],
+			[
+				"F_Sh",
+				"F_wmSHW"
+			],
+			[
+				"sGot",
+				"sGoto"
+			],
+			[
+				"_",
+				"_worldChronoWait"
+			],
+			[
+				"_s",
+				"_shorterWayAlgorithm"
+			],
+			[
+				"fun",
+				"func_tempvec"
+			],
+			[
+				"It",
+				"ItemDelNo"
+			],
+			[
+				"me",
+				"meStats"
+			],
+			[
+				"_ite",
+				"_item_inrangenum"
+			],
+			[
+				"_stat",
+				"_statscmp"
+			],
+			[
+				"_st",
+				"_statscmp"
+			],
+			[
+				"Ma",
+				"MaxNo"
+			],
+			[
+				"sI",
+				"sItm"
+			],
+			[
+				"sS",
+				"sScore"
+			],
+			[
+				"sScor",
+				"sScoreD"
+			],
+			[
+				"sCou",
+				"sCounter"
+			],
+			[
+				"sCoun",
+				"sCounterD"
+			],
+			[
+				"sDela",
+				"sDelayRunning"
+			],
+			[
+				"worl",
+				"_worldChronoWait"
+			],
+			[
+				"world",
+				"WorldINIT"
+			],
+			[
+				"Mut",
+				"sMutex"
+			],
+			[
+				"wor",
+				"WorldRESTART"
+			],
+			[
+				"si",
+				"sItm"
+			],
+			[
+				"fo",
+				"for	For Loop"
+			],
+			[
+				"__",
+				"__world"
+			],
+			[
+				"Wo",
+				"WorldINIT"
+			],
+			[
+				"Sid",
+				"SidINIT"
+			],
+			[
+				"Si",
+				"SidINIT"
+			],
+			[
+				"sIt",
+				"sitmAll"
+			],
+			[
+				"ds",
+				"dStats"
+			],
+			[
+				"Sha",
+				"Shape"
+			],
+			[
+				"sp",
+				"sptrAll"
+			],
+			[
+				"spt",
+				"sptrAllD"
+			],
+			[
+				"sptr",
+				"sptrAllD"
+			],
+			[
+				"sVe",
+				"sVec"
+			],
+			[
+				"sVec",
+				"sVecD"
+			],
+			[
+				"Po",
+				"PosD"
+			],
+			[
+				"Comm",
+				"CommitUp"
+			],
+			[
+				"sGo",
+				"sGoto"
+			],
+			[
+				"sGoto",
+				"sGotoD"
+			],
+			[
+				"F_sd",
+				"F_sdMVE"
+			],
+			[
+				"Vec",
+				"Vector2D"
+			],
+			[
+				"c",
+				"class	class-..-(class)"
+			],
+			[
+				"proje",
+				"project_path"
+			],
+			[
+				"F_CM",
+				"F_CMxor"
+			],
+			[
+				"F_C",
+				"F_CMchr"
+			],
+			[
+				"F_w",
+				"F_wFAST"
+			],
+			[
+				"F_ch",
+				"F_chrCH"
+			],
+			[
+				"F",
+				"F_chrUD"
+			],
+			[
+				"F_chr",
+				"F_chrCH"
+			],
+			[
+				"F_CH",
+				"F_CMchr"
+			],
+			[
+				"F_th",
+				"F_thPSE"
+			],
+			[
+				"ch",
+				"chkchrono"
+			],
+			[
+				"dSid",
+				"dSidPos"
+			],
+			[
+				"dsid",
+				"dSidGoto"
+			],
+			[
+				"dtx",
+				"dtxtFlags"
+			],
+			[
+				"strin",
+				"String"
+			],
+			[
+				"w",
+				"w_stats"
+			],
+			[
+				"GEN_",
+				"GEN_healthmax"
+			],
+			[
+				"GEN",
+				"GEN_width"
+			],
+			[
+				"d",
+				"dFrameOffset"
+			],
+			[
+				"0x",
+				"0x4000"
+			],
+			[
+				"w_",
+				"w_delay"
+			],
+			[
+				"gen",
+				"gen_healthmax"
+			],
+			[
+				"The",
+				"TheDisplay"
+			],
+			[
+				"Re",
+				"RenderWindow"
+			],
+			[
+				"_gen",
+				"_gen_item"
+			],
+			[
+				"me_",
+				"me_watchdog"
+			],
+			[
+				"P_",
+				"P_ALV"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "roadmap.txt",
+			"settings":
+			{
+				"buffer_size": 5579,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.cpp",
+			"settings":
+			{
+				"buffer_size": 235,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "disp.h",
+			"settings":
+			{
+				"buffer_size": 7972,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "world.h",
+			"settings":
+			{
+				"buffer_size": 10396,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "stats.h",
+			"settings":
+			{
+				"buffer_size": 6347,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "statsd.h",
+			"settings":
+			{
+				"buffer_size": 1868,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "zwierzak.h",
+			"settings":
+			{
+				"buffer_size": 3379,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Vector2D.h",
+			"settings":
+			{
+				"buffer_size": 3370,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/SFML C++.sublime-build",
+	"command_palette":
+	{
+		"height": 355.0,
+		"selected_items":
+		[
+			[
+				"paco re",
+				"Package Control: Remove Package"
+			],
+			[
+				"paco in",
+				"Package Control: Install Package"
+			],
+			[
+				"paco",
+				"Package Control: Install Package"
+			],
+			[
+				"pacoin",
+				"Package Control: Install Package"
+			],
+			[
+				"pago",
+				"Package Control: Install Package"
+			],
+			[
+				"pago:",
+				"Package Control: Remove Package"
+			],
+			[
+				"pagoin",
+				"Package Control: Install Package"
+			],
+			[
+				"gdb",
+				"SublimeGDB: Start Debugging"
+			],
+			[
+				"Paco:ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"package control:",
+				"Package Control: Install Package"
+			],
+			[
+				"show",
+				"Show TODOs in project and open files"
+			],
+			[
+				"package control",
+				"Package Control: Discover Packages"
+			]
+		],
+		"width": 480.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/miki/Dropbox/Projects/zwierzak v2/sid.h",
+		"/home/miki/Dropbox/Projects/zwierzak v2/statsu.h",
+		"/home/miki/Dropbox/Projects/zwierzak v2/world.h",
+		"/home/miki/Dropbox/var/include/Vector2D.h",
+		"/home/miki/.config/sublime-text-2/Packages/User/C++ (header).sublime-build",
+		"/home/miki/Dropbox/Projects/zwierzak v2/main.cpp",
+		"/home/miki/.config/sublime-text-2/Packages/SublimeCodeIntel/Base File.sublime-settings",
+		"/home/miki/.config/sublime-text-2/Packages/SublimeCodeIntel/Default (Linux).sublime-mousemap",
+		"/home/miki/.config/sublime-text-2/Packages/Themr/Default (Linux).sublime-keymap",
+		"/home/miki/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/miki/.config/sublime-text-2/Packages/SublimeGDB/Default.sublime-keymap",
+		"/home/miki/.config/sublime-text-2/Packages/SublimeGDB/SublimeGDB.sublime-settings",
+		"/home/miki/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/miki/Dropbox/Projects/zwierzak v2/stats.h",
+		"/home/miki/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/miki/Dropbox/Projects/zwierzak v2/data.h",
+		"/home/miki/Dropbox/Projects/cyferki/data.h",
+		"/home/miki/Dropbox/Projects/cyferki/sid.h",
+		"/home/miki/Dropbox/Projects/cyferki/world.h",
+		"/home/miki/.config/sublime-text-2/Packages/C++/030-for-int-loop-(fori).sublime-snippet",
+		"/home/miki/Pobrane/mtwist-1.1/randistrs.h",
+		"/home/miki/Pobrane/RandomLib-1.5/src/Random.cpp",
+		"/usr/include/SFML/Window/Window.hpp",
+		"/usr/include/SFML/Window.hpp",
+		"/home/miki/Dropbox/var/include/DynTabList.h",
+		"/home/miki/Pobrane/collision.cpp",
+		"/home/miki/Dropbox/var/include/PointerMatrix.h",
+		"/home/miki/.config/sublime-text-2/Packages/User/cpp.sublime-build",
+		"/home/miki/Dropbox/zwierzak/zwierzak.cpp",
+		"/home/miki/Dropbox/zwierzak/world.cpp",
+		"/home/miki/Dropbox/zwierzak/main.cpp",
+		"/home/miki/Dropbox/Dokumenty/studia/ask_lab_3_spr4_z10.asm",
+		"/media/MEMCARD/ogolne/DynTabList.h",
+		"/home/miki/Dropbox/Dokumenty/studia/ask3l.txt",
+		"/home/miki/var/ASK/Programy/NASM/ask3.asm",
+		"/home/miki/Dropbox/asdf/asdf.c++",
+		"/home/miki/Dropbox/asdf/untitled.cpp",
+		"/home/miki/Dropbox/var/include/Timer.cpp",
+		"/home/miki/Dropbox/var/include/Timer.h",
+		"/home/miki/.config/sublime-text-2/Packages/User/C++.sublime-settings",
+		"/home/miki/.config/sublime-text-2/Packages/User/untitled.sublime-build",
+		"/home/miki/.config/sublime-text-2/Packages/BracketHighlighter/BracketHighlighter.sublime-settings",
+		"/home/miki/Dropbox/prj/error.php",
+		"/home/miki/Dropbox/prj/files/adm_replacer.php",
+		"/home/miki/Dropbox/prj/files/adm_index.php",
+		"/home/miki/.mozilla/firefox/fruy5q0r.default/chrome/userContent.css",
+		"/media/main/prj/index.php",
+		"/home/miki/Pobrane/scrobblerplugin/src/scrobble/main.c",
+		"/C/prj/error.php",
+		"/C/prj/apocaliptis engine.sublime-project",
+		"/C/prj/files/error.php",
+		"/C/prj/ng2.sublime-project",
+		"/C/prj/style.css"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"func_tempint",
+			"func_tempflags",
+			"4 Higher Min",
+			"func_tempvec",
+			"	",
+			";",
+			"meStats->sRunmode &= ~",
+			";",
+			"	",
+			"	//",
+			"rand()",
+			"sCounter",
+			"	//",
+			"	#define ",
+			"delMove",
+			"sid",
+			"statsu",
+			"stats::I_",
+			"I_",
+			" = 0x",
+			"stats::G_",
+			"statsu::G_",
+			"statsu::F_",
+			"stats::F_",
+			"F_",
+			"static const int ",
+			".x",
+			"scoreplus",
+			"theLLama",
+			"theLLamaImg",
+			"_vectorToInt",
+			"stats::",
+			"meStats->sRunmode",
+			"statsu::",
+			"F_MScha",
+			"F_MStat",
+			"F_wch",
+			"F_Mitar",
+			"F_CMchr",
+			"flagsSync",
+			"t::Vc2D",
+			"-1000",
+			"F_sROAM",
+			"MaxNo",
+			"statsu::",
+			"F_",
+			"statscmp",
+			"sidStats",
+			"meStats->sRunmode",
+			"rand()",
+			"rand",
+			"tempimg",
+			"theSprite",
+			", sf::Color(0,255,0,0)",
+			", sf::Color(117,117,62)",
+			", sf::Color(46,36,28)",
+			", sf::Color(239,169,66)",
+			", sf::Color(148,79,11)",
+			", sf::Color(209,129,41)",
+			", sf::Color(246,225,110)",
+			", sf::Color(74,39,13)",
+			", sf::Color(227,138,36)",
+			"sh",
+			".x",
+			"tx",
+			"sid::",
+			"0x",
+			"0x0",
+			"0x",
+			"static const int F",
+			"static const short int",
+			"DEBUG",
+			"isinrange",
+			"MaxNum",
+			"sptrAll",
+			"Vec",
+			"sVec",
+			"Commit",
+			"Collectibles",
+			"dtxtScHeHaDe",
+			"dec2bin",
+			"  ",
+			"SidGoto",
+			"SidPos",
+			"Sid",
+			"the::",
+			"Vc2D",
+			"+",
+			"dtxtScoreHeHa",
+			"dStats",
+			"Frameoffset",
+			"w_mutex",
+			"w_delay",
+			"w_runmode",
+			"w_mutex",
+			"w_stats",
+			"w_delay",
+			"w_mutex",
+			"w_r",
+			"s_s",
+			"s_h",
+			"s_health",
+			"s_goto",
+			"s_pos",
+			"dstats",
+			"_dane",
+			"txtZwierzak",
+			"        ",
+			"Text",
+			");",
+			"//",
+			"//\n",
+			"		",
+			"	\n",
+			"STATICS",
+			"gen",
+			"ret",
+			"goto",
+			"go_to",
+			"PET_STATS",
+			"_pet_stats_tmp",
+			"vector",
+			"PET_SSELF",
+			"data",
+			"$NG2blog['id']",
+			";"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"RanDev()",
+			"zwierzak",
+			"statsd",
+			"statI_",
+			"  0x",
+			"statG_",
+			"statF_",
+			"#define stat",
+			".y",
+			"F_MSall",
+			"F_MStep",
+			"F_wdl",
+			"F_Mitem",
+			"F_Mdlay",
+			"		Runmode |= statsu::F_smMVE;\nF_Mdlay",
+			"Vc2D",
+			"F_sMOAR",
+			", sf::Color(0,255,0,0), sf::Color(0,255,0,0)",
+			", sf::Color(117,117,62), sf::Color(117,117,62)",
+			", sf::Color(46,36,28), sf::Color(46,36,28)",
+			", sf::Color(239,169,66), sf::Color(239,169,66)",
+			", sf::Color(148,79,11), sf::Color(148,79,11)",
+			", sf::Color(209,129,41), sf::Color(209,129,41)",
+			", sf::Color(246,225,110), sf::Color(246,225,110)",
+			", sf::Color(74,39,13), sf::Color(74,39,13)",
+			", sf::Color(227,138,36), sf::Color(227,138,36)",
+			"(dshpAll[0].Sh)",
+			"dshpAll[0].Sh",
+			".y",
+			"dotGoto",
+			"dotPos",
+			"vec",
+			"go_to",
+			"goto",
+			"PSTATS",
+			"_pet_stats[1].stats",
+			"PS",
+			"world",
+			"$NG2blog['get']"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "roadmap.txt",
+					"settings":
+					{
+						"buffer_size": 5579,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1029,
+								1029
+							]
+						],
+						"settings":
+						{
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main.cpp",
+					"settings":
+					{
+						"buffer_size": 235,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								211,
+								211
+							]
+						],
+						"settings":
+						{
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "disp.h",
+					"settings":
+					{
+						"buffer_size": 7972,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6530,
+								6530
+							]
+						],
+						"settings":
+						{
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 765.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "world.h",
+					"settings":
+					{
+						"buffer_size": 10396,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4927,
+								4927
+							]
+						],
+						"settings":
+						{
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2700.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "stats.h",
+					"settings":
+					{
+						"buffer_size": 6347,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								412,
+								412
+							]
+						],
+						"settings":
+						{
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "statsd.h",
+					"settings":
+					{
+						"buffer_size": 1868,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								738,
+								738
+							]
+						],
+						"settings":
+						{
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "zwierzak.h",
+					"settings":
+					{
+						"buffer_size": 3379,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								735,
+								735
+							]
+						],
+						"settings":
+						{
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "Vector2D.h",
+					"settings":
+					{
+						"buffer_size": 3370,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								263,
+								263
+							]
+						],
+						"settings":
+						{
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.sftp":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/miki/Dropbox/Projects/zwierzak/zwierzak.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 105.0,
+	"status_bar_visible": true
+}

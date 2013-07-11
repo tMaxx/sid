@@ -1,0 +1,169 @@
+file prefixes:
+_file - general
+s_file - for sid
+w_file - for world
+
+
+GUI:
+
+ /------------------\ [wersja]
+ |					|
+ |					| [--statsy---]
+ |					| [f5 interwał]
+ |					| [---flagi---]
+ \------------------/       [llama]
+
+
+<'l
+ ll
+ llama~
+ || ||
+ '' ''
+
+SPEED ON 'FAST' MODE: 10k moves/11sec [old]
+CURRENT SPEED ON 'FAST' MODE: DEPENDS ON YOUR PROCESOR SPEED, UP TO TENS OF MILLIONS PER SECOND
+
+ v0.30
+ TODO: @stats: copy & check Sid & World statistics
+
+podczas testów - wystąpiła pusta plansza
+
+STATS COPY MODEL:
+downstream (suffix "D") jest informacyjny, z pominięciem:
+- vec goto
+- (countera)
+
+DONE:
+- display, world, stats, in general
+- restart
+- interrupted chrono
+- dots display
+- stats drain/increase
+- stats copying
+- display "one delay"
+- CODE CLEANUP:
+	- items range
+	- flag system cleanup
+		- zwierzak ma swoją część, nadrzędną względem reszty (kopia bezpośrednia)
+- additional functions
+	- display; flags as letters
+		- FIXME: monospace font
+- FIX: sid's getNearest
+- KEYMAPPING!!!
+- CODE CLEANUP!!! OK1, OK2, OK3, OK4
+
+TODO:
+- time elapsed
+
+
+
+//////////////////////////////////////////////////////////////
+//															//
+//					DEBUG INFO BELOW						//
+//															//
+//////////////////////////////////////////////////////////////
+
+
+
+
+//////////////////////////////////////////////////////////////
+//															//
+//					TRASHED CODE BELOW						//
+//															//
+//////////////////////////////////////////////////////////////
+
+
+std::string disp::getFPS()
+{
+	int Framerate = 1.f / App->GetFrameTime();
+	std::string temp = "FPS: ";
+	std::ostringstream ss;
+	ss << Framerate;
+
+	return temp.append(ss.str());
+}
+
+/*if(n==0)nextD=next = n;
+			else nextD = (struct sItmD*)((next = n));*/
+
+static class stats* world::__StatsHandle()
+{
+	return stats::MePtr;
+}
+
+void disp::createshapes()
+{
+
+	//najpierw lama
+	(dshpAll[0].Sh).AddPoint(0,5, sf::Color(93,50,16), sf::Color(93,50,16)); //ogon
+	(dshpAll[0].Sh).AddPoint(1,5, sf::Color(227,138,36), sf::Color(227,138,36));
+	(dshpAll[0].Sh).AddPoint(1,4, sf::Color(93,50,16), sf::Color(93,50,16));
+	(dshpAll[0].Sh).AddPoint(2,4, sf::Color(93,50,16), sf::Color(93,50,16));
+	(dshpAll[0].Sh).AddPoint(3,4, sf::Color(74,39,13), sf::Color(74,39,13)); //now up
+	(dshpAll[0].Sh).AddPoint(3,3, sf::Color(74,39,13), sf::Color(74,39,13)); //now up
+	(dshpAll[0].Sh).AddPoint(3,2, sf::Color(74,39,13), sf::Color(74,39,13)); //now up
+	(dshpAll[0].Sh).AddPoint(3,0, sf::Color(74,39,13), sf::Color(74,39,13)); //now up
+	(dshpAll[0].Sh).AddPoint(3,1, sf::Color(74,39,13), sf::Color(74,39,13)); //now up
+	(dshpAll[0].Sh).AddPoint(4,1, sf::Color(246,225,110), sf::Color(246,225,110)); //right
+	(dshpAll[0].Sh).AddPoint(4,2, sf::Color(93,50,16), sf::Color(93,50,16)); //down
+	(dshpAll[0].Sh).AddPoint(5,2, sf::Color(74,39,13), sf::Color(74,39,13)); //right
+	(dshpAll[0].Sh).AddPoint(5,0, sf::Color(93,50,16), sf::Color(93,50,16)); //now up
+	(dshpAll[0].Sh).AddPoint(5,1, sf::Color(74,39,13), sf::Color(74,39,13)); //now up
+	(dshpAll[0].Sh).AddPoint(5,3, sf::Color(74,39,13), sf::Color(74,39,13)); //now up
+	(dshpAll[0].Sh).AddPoint(4,3, sf::Color(148,79,11), sf::Color(148,79,11)); //now up
+	(dshpAll[0].Sh).AddPoint(4,4, sf::Color(209,129,41), sf::Color(209,129,41));
+	(dshpAll[0].Sh).AddPoint(5,4, sf::Color(93,50,16), sf::Color(93,50,16));
+	(dshpAll[0].Sh).AddPoint(5,5, sf::Color(239,169,66), sf::Color(239,169,66));
+	(dshpAll[0].Sh).AddPoint(4,5, sf::Color(209,129,41), sf::Color(209,129,41));
+	(dshpAll[0].Sh).AddPoint(3,5, sf::Color(227,138,36), sf::Color(227,138,36));
+	(dshpAll[0].Sh).AddPoint(2,5, sf::Color(227,138,36), sf::Color(227,138,36));
+	(dshpAll[0].Sh).AddPoint(2,6, sf::Color(148,79,11), sf::Color(148,79,11));
+	(dshpAll[0].Sh).AddPoint(3,6, sf::Color(148,79,11), sf::Color(148,79,11));
+	(dshpAll[0].Sh).AddPoint(4,6, sf::Color(239,169,66), sf::Color(239,169,66));
+	(dshpAll[0].Sh).AddPoint(5,6, sf::Color(148,79,11), sf::Color(148,79,11));
+	(dshpAll[0].Sh).AddPoint(5,7, sf::Color(46,36,28), sf::Color(46,36,28));
+	(dshpAll[0].Sh).AddPoint(5,8, sf::Color(46,36,28), sf::Color(46,36,28));
+	(dshpAll[0].Sh).AddPoint(4,8, sf::Color(46,36,28), sf::Color(46,36,28));
+	(dshpAll[0].Sh).AddPoint(4,7, sf::Color(117,117,62), sf::Color(117,117,62));
+	(dshpAll[0].Sh).AddPoint(3,7, sf::Color(0,255,0,0), sf::Color(0,255,0,0));
+	(dshpAll[0].Sh).AddPoint(2,7, sf::Color(46,36,28), sf::Color(46,36,28));
+	(dshpAll[0].Sh).AddPoint(2,8, sf::Color(46,36,28), sf::Color(46,36,28));
+	(dshpAll[0].Sh).AddPoint(1,8, sf::Color(46,36,28), sf::Color(46,36,28));
+	(dshpAll[0].Sh).AddPoint(1,7, sf::Color(117,117,62), sf::Color(117,117,62));
+	(dshpAll[0].Sh).AddPoint(1,6, sf::Color(149,96,46), sf::Color(149,96,46));
+	(dshpAll[0].Sh).AddPoint(0,6, sf::Color(0,255,0,0), sf::Color(0,255,0,0));
+	(dshpAll[0].Sh).EnableOutline(true);
+	(dshpAll[0].Sh).SetBlendMode(sf::Blend::Mode::None);
+}
+
+	//dshpAll[0].Sh = sf::Shape::Circle(t::Vc2D::ToSFML(dFrameOffset),2.5f,sf::Color(255,50,50));
+
+
+void world::_additem(t::Vc2D pos, unsigned char type)
+{
+	meStats->ItemPushBack(pos,type);
+}
+
+	// if (((((Runmode & statsu::F_smDET)?(!!((Stats->sHealthD) < 400)):(!!(Runmode & statsu::F_Shcrt))))?true:false))
+	if (((((Runmode & statsu::F_smDET)?(!!((Stats->sHappinessD) < 200)):(!!(Runmode & statsu::F_Siemo))))?true:false))
+
+
+
+	void convflags(unsigned int, std::ostringstream*);
+void disp::convflags(unsigned int n, std::ostringstream * ss)
+{
+	unsigned int mask = 0x80000000;
+	unsigned short int space = 1;
+	do
+	{
+		*ss << ((n & mask)?"1":"0");
+		if(space==16)
+		{
+			*ss<<"\n";
+			space=1;
+		}else if(space++%4==0)
+			*ss<<" ";
+
+	}
+	while (mask>>=1);
+}
