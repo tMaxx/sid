@@ -1,0 +1,7 @@
+a.out
+#don't add sublime's project-related stuff
+*.sublime-*
+
+#and since I have some other unimportant folders here as well
+HoF/
+old/
