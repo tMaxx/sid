@@ -1,4 +1,4 @@
 Very simple and kind of stupid Llama simulator.
 
 Graphics: SFML library v1.6
-
+Compiles only using C++11 standard
